@@ -1,6 +1,4 @@
-package com.example.demo.service;
-
-import com.example.demo.model.Person;
+package com.example.demo;
 import java.util.List;
 import java.util.stream.Collectors;
 
